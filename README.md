@@ -5,7 +5,7 @@ Test sur les services de la Géoplateforme.
 Pré-requis :
 - QGIS version LTR [3.28] ou supérieure
 - Une connexion Internet
-- Installation depuis le dépot QGIS : dans le gestionnaire d'exentions (Extensions > Installer/Gérer les extensions), activer les extensions expérimentales et rechercher le plugin IDG au format zip sur son ordinateur
+- Installation depuis fichier zip : dans le gestionnaire d'exentions (Extensions > Installer/Gérer les extensions), activer les extensions expérimentales et rechercher le plugin IDG au format zip sur son ordinateur
 
 
 Notes : 
