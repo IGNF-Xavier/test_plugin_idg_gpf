@@ -1,5 +1,5 @@
 # Test pour plugin IDG avec services de la Géoplateforme
-Plugin pour QGIS 3 fournissant un accès simple aux données de l'ensemble des Infrastructure de Données Géographiques (IDG) et d'autres ressources nationales géographiques utiles.
+Plugin pour QGIS 3 fournissant un accès simple aux données de l'ensemble des Infrastructures de Données Géographiques (IDG) et d'autres ressources nationales géographiques utiles.
 Test sur les services de la Géoplateforme.
 
 Pré-requis :
