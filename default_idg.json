@@ -2,6 +2,6 @@
   "geo2france": "https://www.geo2france.fr/public/qgis3/plugins/geo2france/geo2france.qgs",
   "OPenIG": "https://raw.githubusercontent.com/openig/Plugin-QGIS3-OPenIG/master/OPenIG_qgis_plugin.qgs",
   "GéoBretagne": "https://geobretagne.fr/pub/plugin-qgis/config-idg-geobretagne.qgs",
-  "Géoplateforme": "https://raw.githubusercontent.com/IGNF-Xavier/plugin_IDG/master/projet_idg_gpf.qgz",
+  "Géoplateforme": "https://raw.githubusercontent.com/IGNF-Xavier/plugin_IDG/master/projet_idg_gpf.qgz"
   
 }
